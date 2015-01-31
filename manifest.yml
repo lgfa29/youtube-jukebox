@@ -1,0 +1,9 @@
+---
+applications:
+- name: slack-jukebox
+  instances: 1
+  memory: 128M
+  host: slack-jukebox
+  domain: mybluemix.net
+  path: .
+  command: node app.js

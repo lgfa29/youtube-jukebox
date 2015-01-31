@@ -1,0 +1,12 @@
+{
+  "name": "slack-jukebox",
+  "version": "0.0.1",
+  "description": "Slack Jukebox backend",
+  "dependencies": {
+    "express": "*",
+    "youtube-api": "*",
+    "cfenv": "*",
+    "request": "*",
+    "body-parser": "*"
+  }
+}
